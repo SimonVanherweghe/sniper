@@ -1,2 +1,2 @@
-const endpoint = `http://192.168.151.152:8888`;
+const endpoint = `http://localhost:8888`;
 export { endpoint };
