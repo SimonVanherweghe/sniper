@@ -1,0 +1,7 @@
+{
+  "name": "sniper-get-listings",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sniper-post-searches",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}

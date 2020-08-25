@@ -6,9 +6,15 @@ folder build
 
 @http
 get /api
+get /listings
+post /listings
+get /searches
+post /searches
 
 @tables
 data
   scopeID *String
   dataID **String
-  ttl TTL
+
+@scheduled
+scrape rate(5 minutes)

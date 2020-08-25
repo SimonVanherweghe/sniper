@@ -1,0 +1,7 @@
+{
+  "name": "sniper-scrape",
+  "dependencies": {
+    "@begin/data": "latest",
+    "axios": "^0.20.0"
+  }
+}
