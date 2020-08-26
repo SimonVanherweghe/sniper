@@ -17,4 +17,4 @@ data
   dataID **String
 
 @scheduled
-scrape rate(5 minutes)
+scrape rate(6 hours)
